@@ -7,10 +7,10 @@
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_4.svg.png",
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_5.svg.png",
     "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_1_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_2_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_3_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_4_6.svg.png"
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d16.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d26.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d36.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d46.png"
   ];
 
    let score = 0; // Contador de respuestas correctas
