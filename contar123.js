@@ -1,16 +1,16 @@
 // Axel Cotón Gutiérrez Copyright 2023
   // Generar imágenes aleatorias
   const images = [
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/D6_1.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/D6_2.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/D6_3.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/D6_4.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/D6_5.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/D6_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/2d6_1_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/2d6_2_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/2d6_3_6.svg.png",
-    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta3dados/master/img/2d6_4_6.svg.png"
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_1.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_2.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_3.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_4.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_5.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/D6_6.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_1_6.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_2_6.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_3_6.svg.png",
+    "https://raw.githubusercontent.com/AxelCotonGutierrez/Contarhasta10dados/master/img/2d6_4_6.svg.png"
   ];
 
    let score = 0; // Contador de respuestas correctas
