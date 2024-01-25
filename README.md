@@ -1,6 +1,6 @@
 # Contar hasta diez usando dados
 
-![Juego de los dados](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/Contar10/jcontar10d.jpg)
+![Juego de los dados](https://axelcotongutierrez.github.io/learningmathematicas/assets/images//posts/04JContar10/jcontar10d.jpg)
 
 Dentro del blog: https://axelcotongutierrez.github.io/learningmathematicas/
 
